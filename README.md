@@ -15,7 +15,7 @@ loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/Asdfghjkln77/Ut
 - Copy and paste the following code into your roblox executor
 
 ### ⚠ Your roblox executor needs the following things:
-- CoreGui Access
+- CoreGui Access (you still able to execute if you don't have access, but anticheats can detect this)
 
 ### ✅ What's new in V2
 - Updated interface
