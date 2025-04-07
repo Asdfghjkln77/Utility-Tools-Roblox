@@ -5,10 +5,21 @@ Hello, I'm Asdfghjkln, here I'll show you a roblox script fully made by me. ( En
 ```lua
 loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/Asdfghjkln77/Utility-Tools-Roblox/refs/heads/main/Old%20Version.lua"))()
 ```
+### V1 Features
+- ✅ Teleport Tool
+- ✅ Tween Tool
+- ✅ Ghost Tool
+- ✅ Destroy Tool
+- ❌ Undo Tool
+- ✅ Night Vision Tool
+- ✅ Freeze Tool
+- ❌ FreeCam Tool
+- ❌ More tools...
+- ❌ Minimalist UI
 
 ### ✅ New Reworked Version (V2, Updated)
 ```lua
-
+loadstring(game.HttpGet(game, "https://link.here.com"))()
 ```
 
 ### 🧪 How to use
