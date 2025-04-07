@@ -19,7 +19,7 @@ loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/Asdfghjkln77/Ut
 
 ### ✅ New Reworked Version (V2, Updated)
 ```lua
-loadstring(game.HttpGet(game, "https://link.here.com"))()
+loadstring(game.HttpGet(game, "[https://link.here.com](https://github.com/Asdfghjkln77/Utility-Tools-Roblox/blob/main/New%20Version.lua)"))()
 ```
 
 ### 🧪 How to use
